@@ -1,0 +1,15 @@
+/*<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">*/
+
+.navbar-default {
+  background-color: #ffff99;
+}
+.well {
+  background-color: #ffcc99
+}
+#new-task {
+  font-family: cursive;
+}
+
+.jumbotron {
+  background-color: #ffff99;
+}

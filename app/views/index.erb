@@ -1,5 +1,9 @@
-<h1>All Tasks</h1>
+<li class='btn btn-default'><a href="/">Home</a></li>
 
+<h1 class='navbar navbar-default col-md-12'>All Tasks</h1>
+
+<div class='row well'>
 <% @tasks.each do |task| %>
-  <h3><%= task.id %>: <a href="/tasks/<%= task.id %>"><%= task.title %></a></h3>
+  <h3 class='btn btn-default'><%= task.id %>: <a href="/tasks/<%= task.id %>"><%= task.title %></a></h3>
 <% end %>
+</div>

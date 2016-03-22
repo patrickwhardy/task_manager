@@ -15,4 +15,11 @@ tasks:
 - id: 5
   title: pzza
   description: sheese
-total: 5
+- id: 6
+  title: Hanging out with mom and dad
+  description: today I'm going to hang out with mom and dad. ashley will come too,
+    maybe
+- id: 7
+  title: ok
+  description: dokay
+total: 7
